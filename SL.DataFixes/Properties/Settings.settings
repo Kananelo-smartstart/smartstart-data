@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="SL.DataFixes.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="SLConnString" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Url=https://crm.smartstart.org.za/SmartStart; Domain=NGO; Username=adm_crm; Password=Xh@nt1lomziXXX2019; AuthType=AD;</Value>
+    </Setting>
+    <Setting Name="Url" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">crm.smartstart.org.za</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
